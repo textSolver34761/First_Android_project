@@ -27,7 +27,7 @@ public class GLPhotoView extends GLSurfaceView {
     private Scroller mScroller = null;
 
     private float mPrevX, mPrevY;
-
+    
     private RotateInertia mRotateInertia = RotateInertia.INERTIA_0;
 
     /**
